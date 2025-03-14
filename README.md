@@ -33,8 +33,8 @@
    - `Program.cs`에서 `inputPath` 및 `outputPath`를 적절히 설정합니다.
 
    ```
-   string fileName = "20";
-   string path = "D:\\Tutorial\\ShaderDev\\";
+   string fileName = "srt file name";
+   string path = "file path";
    
    string inputPath = $"{path}{fileName}.srt";
    string outputPath = $"{path}kor\\{fileName}kor.srt";
